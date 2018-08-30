@@ -1,0 +1,3 @@
+﻿  helloworld.cpp
+c:\users\anjali\desktop\c++\helloworld\helloworld\helloworld.cpp(25): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  helloworld.vcxproj -> C:\Users\anjali\Desktop\c++\helloworld\Debug\helloworld.exe
